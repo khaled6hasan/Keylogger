@@ -30,7 +30,7 @@ It demonstrates how keylogging, clipboard monitoring, and secure logging techniq
 
 ## ▶️ How to Run
 
-# 1. Clone the repository:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/advanced-keylogger.git
@@ -38,21 +38,20 @@ cd advanced-keylogger
 
 ```
 
-
-# 2. Install dependencies:
+2. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 
 ```
 
-# 3. Run the keylogger:
+3. Run the keylogger:
 
 ```bash
 python keylogger.py
 
 ```
-# 4. Stop the keylogger by typing:
+4. Stop the keylogger by typing:
 
 ```bash
 STOPLOG
