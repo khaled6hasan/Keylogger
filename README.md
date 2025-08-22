@@ -24,9 +24,10 @@ It demonstrates how keylogging, clipboard monitoring, and secure logging techniq
 - Required libraries:
   ```bash
   pip install pynput pyperclip
-
  ```
+
 ---
+
 
 ## ▶️ How to Run
 
@@ -51,6 +52,7 @@ pip install -r requirements.txt
 python keylogger.py
 
 ```
+
 4. Stop the keylogger by typing:
 
 ```bash
